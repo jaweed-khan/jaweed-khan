@@ -28,40 +28,41 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Languages
 <p align="left">
-    <img src="" alt="HTML5" style="max-width:100%;">
-    <img src="" alt="Javascript" style="max-width:100%;">
-    <img src="" alt="PHP" style="max-width:100%;">
-    <img src="" alt="css3" style="max-width:100%;">
-    <img src="" alt="Sass" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/php.svg" alt="PHP" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/css3.svg" alt="css3" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/sass.svg" alt="Sass" style="max-width:100%;">
 </p>
 
 ### Frameworks
 <p align="left">
-    <img src="" alt="Laravel" style="max-width:100%;">
-    <img src="" alt="Angular" style="max-width:100%;">
-    <img src="" alt="React" style="max-width:100%;">
-    <img src="" alt="Vue" style="max-width:100%;">
-    <img src="" alt="Bootstrap" style="max-width:100%;">
-    <img src="" alt="jQuery" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/laravel.svg" alt="Laravel" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/angular.svg" alt="Angular" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/react.svg" alt="React" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/vue.svg" alt="Vue" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/bootstrap.svg" alt="Bootstrap" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/jquery.svg" alt="jQuery" style="max-width:100%;">
 </p>
 
 ### Tools
 <p align="left">
-    <img src="" alt="Bash" style="max-width:100%;">
-    <img src="" alt="Visual Studio Code" style="max-width:100%;">
-    <img src="" alt="Docker" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/docker.svg" alt="Docker" style="max-width:100%;">
 </p>
 
 ### Services
 <p align="left">
-    <img src="" alt="Digital Ocean" style="max-width:100%;">
-    <img src="" alt="Npm" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/digitalocean.svg" alt="Digital Ocean" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/npm.svg" alt="Npm" style="max-width:100%;">
 </p>
 
 ### Devices
 <p align="left">
-    <img src="" alt="Mac" style="max-width:100%;">
-    <img src="" alt="Nintendo" style="max-width:100%;">
-    <img src="" alt="Playstation" style="max-width:100%;">
-    <img src="" alt="Wearables" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/devices/mac.svg" alt="Mac" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/devices/nintendo.svg" alt="Nintendo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/devices/playstation.svg" alt="Playstation" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/devices/wearables.svg" alt="Wearables" style="max-width:100%;">
 </p>
+
