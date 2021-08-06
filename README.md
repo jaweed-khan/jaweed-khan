@@ -17,10 +17,10 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 ### 📫 How to reach me:
 <p align="left">
     <a href="https://in.linkedin.com/in/jaweed-khan-b5b497104">
-        <img src="" alt="LinkedIn" style="max-width:100%;">
+        <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">
     </a>
     <a href="https://twitter.com/MrJaweedkhan">
-        <img src="" alt="Twitter" style="max-width:100%;">
+        <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">
     </a>
 </p>
 
