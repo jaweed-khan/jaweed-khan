@@ -4,7 +4,7 @@ My github contains a wide range of projects I have created over the years. Some 
 
 ### 🔭 I’m currently working
 
-on a project that centers around recruiting firms. It makes the recruiters life easy by using such ATS, its a small scale business ATS which will consist of roles and tracking of each of the candidate with advance search and reports with all the uploading features and logs. 
+on European Client Projects Ecommerce Applications, Blog Websites, Custom web applications, Mobile Rest API's, AWS Management. Responsible for the complete backend code and Server management, Handling security best practices for the websites, webapplications. 
 
 ### 🌱 I’m currently learning
 
