@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My github contains a wide range of projects I have created over the years. Some of these projects were created while completing my Internship From <a href="catamerica.com">CAT Technologies</a> Other projects are used to advance my skills and knowledge in this forever growing field. My personal projects are listed here as well.
+My github contains a wide range of projects I have created over the years. Some of these projects were created while completing my Internship From <a href="https://catamerica.com">CAT Technologies</a> Other projects are used to advance my skills and knowledge in this forever growing field. My personal projects are listed here as well.
 
 ### 🔭 I’m currently working
 
