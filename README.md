@@ -54,7 +54,7 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Services
 <p align="left">
-    <img src="https://www.w3schools.com/aws/images/awslogo.png" alt="aws" style="height:40px;" >
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/awslogo.png" alt="aws" style="height:40px;" >
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/digitalocean.svg" alt="Digital Ocean" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/npm.svg" alt="Npm" style="max-width:100%;">
 </p>
