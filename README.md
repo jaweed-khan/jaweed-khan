@@ -37,6 +37,7 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Frameworks
 <p align="left">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/codeigniter-1.svg" alt="Codeigniter" style="height:50px">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/laravel.svg" alt="Laravel" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/angular.svg" alt="Angular" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/react.svg" alt="React" style="max-width:100%;">
