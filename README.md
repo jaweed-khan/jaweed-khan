@@ -30,6 +30,7 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 <p align="left">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/jquery.png" alt="Jquery" style="height:50px">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/php.svg" alt="PHP" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/css3.svg" alt="css3" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/sass.svg" alt="Sass" style="max-width:100%;">
