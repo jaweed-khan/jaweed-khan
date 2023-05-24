@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My github contains a wide range of projects I have created over the years. Some of these projects were created while completing my Internship From <a href="https://catamerica.com">CAT Technologies</a> Other projects are used to advance my skills and knowledge in this forever growing field. My personal projects are listed here as well.
+I am an experienced Software Engineer with expertise in PHP frameworks such as Laravel, CodeIgniter, Symfony, Lumen, Slim, WordPress, Magento, and Core PHP. I have a strong command of backend development, including writing APIs and integrating third-party APIs into projects. I have also worked with Node.js and Django, expanding my skillset beyond PHP.
+
+In addition, I have a solid understanding of cloud computing, particularly AWS services like EC2, S3, RDS, CloudFront, and Auto Scaling. I am comfortable working with Linux servers and have acquired valuable experience as a Team Lead, overseeing projects from initial client discussions to final deliverables.
+
+My proficiency extends to database management, as I have worked with SQL Server and MySQL. On the frontend, I have knowledge of JavaScript frameworks such as React, Node.js, and Express.
 
 ### 🔭 I’m currently working
 
