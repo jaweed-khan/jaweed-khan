@@ -6,6 +6,12 @@ In addition, I have a solid understanding of cloud computing, particularly AWS s
 
 My proficiency extends to database management, as I have worked with SQL Server and MySQL. On the frontend, I have knowledge of JavaScript frameworks such as React, Node.js, and Express.
 
+### 📜 Certifications
+
+[![JavaScript (Basic)](https://img.shields.io/badge/HackerRank-JS_Basic-2EC866?logo=hackerrank)](https://www.hackerrank.com/certificates/ad80fe01eb0f)  
+[![JavaScript (Intermediate)](https://img.shields.io/badge/HackerRank-JS_Intermediate-2EC866?logo=hackerrank)](https://www.hackerrank.com/certificates/1ba0a3f114ae)  
+[![SQL (Basic)](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?logo=hackerrank)](https://www.hackerrank.com/certificates/93aba11cec69)
+
 ### 🔭 I’m currently working
 
 On European Client Projects Ecommerce Applications, Blog Websites, Custom web applications, Mobile Rest API's, AWS Management. Responsible for the complete backend code and Server management, Handling security best practices for the websites, webapplications. 
