@@ -44,7 +44,7 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/jquery.png" alt="Jquery" style="height:50px">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/php.svg" alt="PHP" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/python.svg" alt="Python" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/python.svg" alt="Python" style="max-width:100%;height:40px;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/css3.svg" alt="css3" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/sass.svg" alt="Sass" style="max-width:100%;">
 </p>
@@ -77,16 +77,16 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 ### Services
 <p align="left">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/awslogo.png" alt="aws" style="height:40px;" >
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/googlecloud.svg" alt="GCP" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/godaddy.svg" alt="GoDaddy" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/hostinger.svg" alt="Hostinger" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/googlecloud.svg" alt="GCP" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/godaddy.svg" alt="GoDaddy" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/hostinger.svg" alt="Hostinger" style="max-width:100%;height:40px;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/digitalocean.svg" alt="Digital Ocean" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/npm.svg" alt="Npm" style="max-width:100%;">
 </p>
 
 ### Servers
 <p align="left">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/ubuntu.svg" alt="Ubuntu" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/centos.svg" alt="CentOS" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/windowsserver.svg" alt="Windows Server" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/ubuntu.svg" alt="Ubuntu" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/centos.svg" alt="CentOS" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/servers/windowsserver.svg" alt="Windows Server" style="max-width:100%;height:40px;">
 </p>
