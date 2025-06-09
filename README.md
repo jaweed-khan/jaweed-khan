@@ -53,10 +53,10 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 <p align="left">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/services/codeigniter-1.svg" alt="Codeigniter" style="height:50px">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/laravel.svg" alt="Laravel" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/symfony.svg" alt="Symfony" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/django.svg" alt="Django" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/flask.svg" alt="Flask" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/fastapi.svg" alt="FastAPI" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/symfony.svg" alt="Symfony" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/django.svg" alt="Django" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/flask.svg" alt="Flask" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/fastapi.svg" alt="FastAPI" style="max-width:100%;height:40px;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/angular.svg" alt="Angular" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/react.svg" alt="React" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/languages/frameworks/vue.svg" alt="Vue" style="max-width:100%;">
@@ -69,9 +69,9 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/docker.svg" alt="Docker" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/herd.svg" alt="Herd" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/phpstorm.svg" alt="PHPStorm" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/tinkerwell.svg" alt="Tinkerwell" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/herd.svg" alt="Herd" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/phpstorm.svg" alt="PHPStorm" style="max-width:100%;height:40px;">
+    <img src="https://raw.githubusercontent.com/jaweed-khan/jaweed-khan/master/badges/tools/tinkerwell.svg" alt="Tinkerwell" style="max-width:100%;height:40px;">
 </p>
 
 ### Services
